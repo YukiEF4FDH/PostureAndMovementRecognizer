@@ -1,0 +1,481 @@
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\bin\x64\Debug\Get_Angle.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\bin\x64\Debug\Get_AngleNative.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\bin\x64\Debug\Get_Plane.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\bin\x64\Debug\Get_PlaneNative.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\Test\Test\obj\x64\Debug\Counter.baml
+C:\Users\asus\Desktop\Test\Test\bin\x64\Debug\Test.exe.config
+C:\Users\asus\Desktop\Test\Test\bin\x64\Debug\Test.exe
+C:\Users\asus\Desktop\Test\Test\bin\x64\Debug\Test.pdb
+C:\Users\asus\Desktop\Test\Test\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\asus\Desktop\Test\Test\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Test.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Counter.g.cs
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\InputWindow.g.cs
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\MainWindow.g.cs
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\App.g.cs
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Test_MarkupCompile.cache
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Test_MarkupCompile.lref
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Counter.baml
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\InputWindow.baml
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\MainWindow.baml
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Test.g.resources
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Test.Properties.Resources.resources
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Test.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Test.csproj.CopyComplete
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Test.exe
+C:\Users\asus\Desktop\Test\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\一半注释t\Test\Test\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4 ( 修正重复数据 加入比对指标\Test\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.1 （将各个测试者的数据与标准数据的差值分别写进txt\Test\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\DeleteWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.3 （通过不同的正态分布检验 进一步修正匹配标准阈值\Test\Test\obj\x64\Debug\DeleteWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\DeleteWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\DeleteWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.4.4（完善界面功能 拆分Model和Match的录制、删除及读取\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\DeleteWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\DeleteWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.0（功能包括文件比对+即时比对打分\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Test.exe.config
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Test.exe
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Test.pdb
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Counter.g.cs
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\DeleteWindow.g.cs
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\InputWindow.g.cs
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\MainWindow.g.cs
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\App.g.cs
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test_MarkupCompile.cache
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test_MarkupCompile.lref
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Counter.baml
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\DeleteWindow.baml
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\InputWindow.baml
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\MainWindow.baml
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.g.resources
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.Properties.Resources.resources
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.csproj.CopyComplete
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.exe
+C:\Users\asus\Desktop\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.pdb
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Test.exe.config
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Test.exe
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Test.pdb
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Microsoft.Kinect.dll
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\bin\x64\Debug\MWArray.dll
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Microsoft.Kinect.xml
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\bin\x64\Debug\MWArray.xml
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Counter.g.cs
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\DeleteWindow.g.cs
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\InputWindow.g.cs
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\MainWindow.g.cs
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\App.g.cs
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test_MarkupCompile.cache
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test_MarkupCompile.lref
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Counter.baml
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\DeleteWindow.baml
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\InputWindow.baml
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\MainWindow.baml
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.g.resources
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.Properties.Resources.resources
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.exe
+E:\V1.5.1 软件著作权版本-1\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\DeleteWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\DeleteWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.1 软件著作权版本\V1.5.1 软件著作权版本\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\DeleteWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\SkeletonPanel.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\DeleteWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\SkeletonPanel.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.5.2 拆触发函数\V1.5.2 拆触发函数\Test\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\DeleteWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\SkeletonPanel.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\DeleteWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\SkeletonPanel.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\新建文件夹\V1.5.5 读文件画小人\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\DeleteWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\SkeletonPanel.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\DeleteWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\SkeletonPanel.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.6.0 背景+读文件画小人\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\DeleteWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\SkeletonPanel.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\DeleteWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\SkeletonPanel.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.8.0 增加focus点 删改类长度\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\bin\x64\Debug\Test.exe.CodeAnalysisLog.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\bin\x64\Debug\Test.exe.lastcodeanalysissucceeded
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\DeleteWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\SkeletonPanel.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\DeleteWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\SkeletonPanel.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\代码\V1.9.0 改类名\Test\obj\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\bin\x64\Debug\Test.exe.config
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\bin\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\bin\x64\Debug\Test.pdb
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\bin\x64\Debug\Microsoft.Kinect.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\bin\x64\Debug\MWArray.dll
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\bin\x64\Debug\MWArray.xml
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\Counter.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\DeleteWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\InputWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\MainWindow.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\SkeletonPanel.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\App.g.cs
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\Counter.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\DeleteWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\InputWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\MainWindow.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\SkeletonPanel.baml
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\Test.g.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\Test.csproj.GenerateResource.Cache
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\Test.exe
+D:\Program Files (x86)\【Projects】\大创\我们的\Code2\V1.9.0 改类名\Test\obj\x64\Debug\Test.pdb
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\bin\x64\Debug\Test.exe.config
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\bin\x64\Debug\Test.exe
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\bin\x64\Debug\Test.pdb
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\bin\x64\Debug\Microsoft.Kinect.xml
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\bin\x64\Debug\MWArray.xml
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Test.csprojAssemblyReference.cache
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Counter.g.cs
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\DeleteWindow.g.cs
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\InputWindow.g.cs
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\MainWindow.g.cs
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\SkeletonPanel.g.cs
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\App.g.cs
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Test_MarkupCompile.cache
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Test_MarkupCompile.lref
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Counter.baml
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\DeleteWindow.baml
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\InputWindow.baml
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\MainWindow.baml
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\SkeletonPanel.baml
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Test.g.resources
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Test.Properties.Resources.resources
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Test.csproj.GenerateResource.cache
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Test.csproj.CoreCompileInputs.cache
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Test.csproj.CopyComplete
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Test.exe
+D:\MyProjects\Kinect\V1.9.0 改类名\Test\obj\x64\Debug\Test.pdb
