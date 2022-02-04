@@ -20,7 +20,7 @@ To alleviate this problem, we add a mean filter with an adjustable sliding windo
 As the result, the jitter is mitigated to a large degree.
 
 ## The overview of this system
-!()[https://gyazo.com/90d58493c50acfb61f9d086beb67d3fd.png]
+![](https://gyazo.com/90d58493c50acfb61f9d086beb67d3fd.png)
 
 # To use
 1. Select a record file as a template.
